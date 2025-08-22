@@ -491,3 +491,15 @@ java.lang.IllegalStateException: not found
 [22Aug2025 01:48:44.126] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 3
 [22Aug2025 01:48:44.128] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 3
 [22Aug2025 01:48:44.130] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 3
+[22Aug2025 01:52:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> PINEAPLE
+[22Aug2025 01:52:32.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> KULIAO
+[22Aug2025 01:54:21.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [A Seedy Place]
+[22Aug2025 01:54:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has made the advancement [Stone Age]
+[22Aug2025 01:55:22.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has made the advancement [Getting an Upgrade]
+[22Aug2025 01:57:31.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ has made the advancement [Let's Get To Work]
+[22Aug2025 02:00:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has made the advancement [Let's Get To Work]
+[22Aug2025 02:02:33.462] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[22Aug2025 02:02:43.965] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[22Aug2025 02:03:07.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set the time to 13915]
+[22Aug2025 02:03:22.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> kiti
+[22Aug2025 02:06:54.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Let's Get To Work]
