@@ -440,3 +440,9 @@ java.lang.IllegalStateException: not found
 [22Aug2025 00:44:18.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [22Aug2025 00:46:23.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin fell from a high place
 [22Aug2025 00:48:26.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Alex's Mobs]
+[22Aug2025 00:53:16.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ has made the advancement [Monster Hunter]
+[22Aug2025 00:55:03.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bérengère'/160, l='ServerLevel[world]', x=51.19, y=61.31, z=125.73] died, message: 'Bérengère drowned'
+[22Aug2025 00:55:03.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bérengère'/160, l='ServerLevel[world]', x=51.19, y=61.31, z=125.73] died: Bérengère drowned
+[22Aug2025 00:55:28.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ has made the advancement [Fishy Business]
+[22Aug2025 00:57:26.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Monster Hunter]
+[22Aug2025 00:58:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Stone Age]
