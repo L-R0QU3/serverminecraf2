@@ -51,6 +51,9 @@
     "criteria": {
       "woodland": "2025-08-22 01:02:15 +0000",
       "floodplain": "2025-08-22 00:26:51 +0000",
+      "old_growth_woodland": "2025-08-22 01:06:18 +0000",
+      "orchard": "2025-08-22 01:07:46 +0000",
+      "dune_beach": "2025-08-22 01:07:41 +0000",
       "volcanic_plains": "2025-08-22 01:05:19 +0000",
       "rainforest": "2025-08-22 00:43:18 +0000"
     },
@@ -507,6 +510,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-22 01:13:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_stool": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
@@ -873,6 +882,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-08-22 01:12:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2025-08-22 00:59:54 +0000"
@@ -1209,6 +1224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-22 01:12:51 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-22 00:52:46 +0000"
@@ -1398,6 +1419,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-08-22 01:07:53 +0000"
     },
     "done": true
   },

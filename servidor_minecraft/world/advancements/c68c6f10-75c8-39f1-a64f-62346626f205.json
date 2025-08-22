@@ -842,6 +842,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "floodplain": "2025-08-22 00:44:37 +0000",
+      "old_growth_woodland": "2025-08-22 01:06:10 +0000",
+      "orchard": "2025-08-22 01:07:46 +0000",
+      "dune_beach": "2025-08-22 01:07:50 +0000",
       "volcanic_plains": "2025-08-22 01:05:21 +0000",
       "rainforest": "2025-08-22 00:44:12 +0000"
     },
@@ -868,6 +871,12 @@
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2025-08-22 00:53:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-22 01:07:21 +0000"
     },
     "done": true
   },
