@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_wool": "2025-08-22 01:31:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-22 00:53:31 +0000"
@@ -89,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-22 01:44:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2025-08-22 00:58:10 +0000"
@@ -110,6 +122,12 @@
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2025-08-22 00:43:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:44:44 +0000"
     },
     "done": true
   },
@@ -179,6 +197,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-08-22 01:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-22 00:58:10 +0000"
@@ -230,6 +254,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-22 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:44:01 +0000"
     },
     "done": true
   },
@@ -290,6 +320,12 @@
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2025-08-22 00:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-22 01:34:35 +0000"
     },
     "done": true
   },
@@ -403,6 +439,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:44:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2025-08-22 00:52:40 +0000"
@@ -448,6 +490,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-22 00:53:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:44:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
     },
     "done": true
   },
@@ -517,9 +571,21 @@
     },
     "done": false
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-22 01:32:22 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2025-08-22 00:43:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
     },
     "done": true
   },
@@ -589,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-22 01:42:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:40 +0000"
@@ -601,9 +673,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-08-22 01:44:32 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_warhammer": {
     "criteria": {
       "has_wood": "2025-08-22 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-08-22 01:31:41 +0000"
     },
     "done": true
   },
@@ -661,11 +745,30 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_trampoline": {
+    "criteria": {
+      "has_wool": "2025-08-22 01:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-22 01:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:40 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-08-22 01:44:56 +0000",
+      "minecraft:chicken": "2025-08-22 01:32:22 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/wooden_greatsword": {
     "criteria": {
@@ -745,6 +848,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:40 +0000"
@@ -760,6 +869,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-08-22 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_grill_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-22 01:42:23 +0000"
     },
     "done": true
   },
@@ -823,6 +938,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-08-22 01:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-08-22 00:53:57 +0000"
@@ -838,6 +959,18 @@
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-08-22 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
     },
     "done": true
   },
@@ -880,6 +1013,12 @@
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-08-22 00:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-22 01:42:23 +0000"
     },
     "done": true
   },
@@ -967,6 +1106,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-22 01:42:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-22 00:53:31 +0000"
@@ -994,6 +1139,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-08-22 00:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-08-22 01:31:41 +0000"
     },
     "done": true
   },
@@ -1147,6 +1298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-22 01:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:40 +0000"
@@ -1180,6 +1337,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-08-22 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-22 01:44:01 +0000"
     },
     "done": true
   },
@@ -1261,9 +1424,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:42:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2025-08-22 00:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-22 01:31:41 +0000"
     },
     "done": true
   },
@@ -1276,6 +1451,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
     },
     "done": true
   },
@@ -1315,6 +1496,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_chair": {
     "criteria": {
       "has_log": "2025-08-22 00:49:33 +0000"
@@ -1324,6 +1511,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-22 00:53:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:44:44 +0000"
     },
     "done": true
   },
@@ -1373,10 +1566,15 @@
     "criteria": {
       "woodland": "2025-08-22 00:48:52 +0000",
       "floodplain": "2025-08-22 00:45:21 +0000",
+      "highland": "2025-08-22 01:26:45 +0000",
       "jacaranda_glade": "2025-08-22 01:17:46 +0000",
       "old_growth_woodland": "2025-08-22 01:06:22 +0000",
       "orchard": "2025-08-22 01:07:46 +0000",
+      "redwood_forest": "2025-08-22 01:27:56 +0000",
+      "dune_beach": "2025-08-22 01:33:38 +0000",
       "volcanic_plains": "2025-08-22 01:05:48 +0000",
+      "lavender_field": "2025-08-22 01:33:29 +0000",
+      "prairie": "2025-08-22 01:28:07 +0000",
       "rainforest": "2025-08-22 00:42:30 +0000"
     },
     "done": false
@@ -1405,9 +1603,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-22 01:42:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_basin": {
     "criteria": {
       "has_oak_planks": "2025-08-22 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:42:23 +0000"
     },
     "done": true
   },
@@ -1426,6 +1636,12 @@
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2025-08-22 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-08-22 01:44:32 +0000"
     },
     "done": true
   },
@@ -1555,6 +1771,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:44:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-08-22 00:52:40 +0000"
@@ -1645,9 +1867,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-08-22 01:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-08-22 00:51:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
     },
     "done": true
   },
@@ -1693,6 +1927,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:40 +0000"
@@ -1717,9 +1957,21 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-08-22 01:31:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-08-22 00:43:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:44:44 +0000"
     },
     "done": true
   },
@@ -1867,9 +2119,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-22 01:44:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-08-22 01:44:01 +0000"
     },
     "done": true
   },
@@ -1897,15 +2161,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-08-22 01:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-08-22 00:58:10 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:44:32 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_lamp": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-08-22 01:44:32 +0000"
     },
     "done": true
   },
@@ -2027,7 +2309,9 @@
     "criteria": {
       "minecraft:beach": "2025-08-22 00:50:11 +0000",
       "minecraft:lukewarm_ocean": "2025-08-22 00:56:28 +0000",
-      "minecraft:river": "2025-08-22 01:05:41 +0000"
+      "minecraft:river": "2025-08-22 01:05:41 +0000",
+      "minecraft:forest": "2025-08-22 01:29:16 +0000",
+      "minecraft:plains": "2025-08-22 01:28:18 +0000"
     },
     "done": false
   },
@@ -2091,9 +2375,16 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/red_sleeping_bag": {
+    "criteria": {
+      "has_red_wool": "2025-08-22 01:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_cod": "2025-08-22 01:05:12 +0000",
+      "rotten_flesh": "2025-08-22 01:40:41 +0000",
       "melon_slice": "2025-08-22 00:52:12 +0000"
     },
     "done": false
@@ -2149,6 +2440,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-22 00:53:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:44:44 +0000"
     },
     "done": true
   },

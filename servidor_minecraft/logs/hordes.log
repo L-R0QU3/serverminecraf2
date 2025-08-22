@@ -57,3 +57,21 @@ loaded horde table hordes:skeletons
 Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
 loaded horde table hordes:fallback
 loaded horde script hordes:default
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@d57abfb]Trying to start horde event on day 3 with nextDay 3 and time 15000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@372d7aa5
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@26506eb3]Trying to start horde event on day 3 with nextDay 3 and time 15000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@36c4ae1c
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@632e7c0b]Trying to start horde event on day 3 with nextDay 3 and time 15000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@39adcc57
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 3
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 3
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 3
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 3
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 3
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 3
