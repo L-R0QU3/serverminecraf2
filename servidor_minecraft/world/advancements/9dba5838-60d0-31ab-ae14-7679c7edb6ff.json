@@ -49,7 +49,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-08-22 01:02:15 +0000",
       "floodplain": "2025-08-22 00:26:51 +0000",
+      "volcanic_plains": "2025-08-22 01:05:19 +0000",
       "rainforest": "2025-08-22 00:43:18 +0000"
     },
     "done": false
@@ -63,6 +65,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:04:59 +0000"
     },
     "done": true
   },
@@ -90,6 +98,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_glaive": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-22 00:52:46 +0000"
@@ -111,6 +125,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_stool": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_longsword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -150,6 +170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-22 00:57:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_lamp": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
@@ -168,9 +194,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_spear": {
     "criteria": {
       "has_wood": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -186,6 +236,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-08-22 00:52:46 +0000"
@@ -195,6 +251,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_lamp": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-08-22 01:04:59 +0000"
     },
     "done": true
   },
@@ -240,6 +302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-08-22 00:43:58 +0000"
@@ -271,6 +339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2025-08-22 00:43:58 +0000"
@@ -298,6 +372,18 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-22 00:57:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 00:57:22 +0000"
     },
     "done": true
   },
@@ -370,6 +456,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -451,6 +543,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
@@ -462,6 +560,12 @@
       "has_lots_of_items": "2025-08-22 00:55:12 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/misc/sail": {
     "criteria": {
@@ -523,6 +627,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_battleaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_boomerang": {
     "criteria": {
       "has_wood": "2025-08-22 00:52:36 +0000"
@@ -532,6 +642,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-08-22 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -558,6 +674,12 @@
       "has_lots_of_items": "2025-08-22 00:55:12 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
@@ -589,6 +711,12 @@
     },
     "done": true
   },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2025-08-22 00:52:36 +0000"
@@ -613,6 +741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_door": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
@@ -625,9 +759,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2025-08-22 00:43:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -661,6 +807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
@@ -685,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-08-22 00:54:33 +0000"
@@ -703,9 +861,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -724,6 +894,18 @@
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-08-22 00:43:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 00:57:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -754,6 +936,24 @@
   "refurbished_furniture:recipes/misc/constructing/lime_lamp": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -790,6 +990,12 @@
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -841,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-22 01:00:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
@@ -850,6 +1062,12 @@
   "spartanweaponry:recipes/wooden_pike": {
     "criteria": {
       "has_wood": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -985,15 +1203,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-08-22 01:04:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-22 00:52:46 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-08-22 00:57:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_battleaxe": {
     "criteria": {
       "has_wood": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:04:59 +0000"
     },
     "done": true
   },
@@ -1051,9 +1287,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-08-22 00:50:00 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -1066,6 +1314,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_lamp": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -1195,6 +1449,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_flanged_mace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-22 00:52:46 +0000"
@@ -1222,6 +1482,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_lamp": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -1285,6 +1551,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-08-22 01:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-22 00:57:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_pike": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/pole_from_string": {
     "criteria": {
       "has_stick": "2025-08-22 00:52:46 +0000"
@@ -1300,6 +1584,12 @@
   "refurbished_furniture:recipes/misc/constructing/pink_cooler": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -1324,7 +1614,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-08-22 00:54:03 +0000",
-      "minecraft:lukewarm_ocean": "2025-08-22 00:48:16 +0000"
+      "minecraft:lukewarm_ocean": "2025-08-22 00:48:16 +0000",
+      "minecraft:river": "2025-08-22 01:05:11 +0000"
     },
     "done": false
   },
@@ -1352,9 +1643,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2025-08-22 00:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },
@@ -1366,9 +1669,22 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-08-22 01:02:16 +0000",
       "melon_slice": "2025-08-22 00:50:43 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-22 00:57:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/black_stool": {
     "criteria": {
@@ -1385,6 +1701,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-22 00:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-22 00:59:54 +0000"
     },
     "done": true
   },

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:04:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-22 00:53:36 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-08-22 01:04:02 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-08-22 00:46:49 +0000"
@@ -214,6 +226,12 @@
       "in_water": "2025-08-22 00:46:49 +0000"
     },
     "done": true
+  },
+  "lolmcv:recipes/decorations/oak_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -353,6 +371,12 @@
     },
     "done": true
   },
+  "lolmcv:recipes/decorations/dark_oak_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
+  },
   "smallships:recipes/transportation/spruce_galley": {
     "criteria": {
       "in_water": "2025-08-22 00:46:49 +0000"
@@ -418,6 +442,12 @@
       "has_planks": "2025-08-22 00:53:32 +0000"
     },
     "done": true
+  },
+  "lolmcv:recipes/decorations/mangrove_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/misc/sail": {
     "criteria": {
@@ -514,6 +544,12 @@
       "in_water": "2025-08-22 00:46:49 +0000"
     },
     "done": true
+  },
+  "lolmcv:recipes/decorations/acacia_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
@@ -635,6 +671,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:04:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-08-22 00:51:58 +0000"
@@ -707,6 +749,12 @@
     },
     "done": true
   },
+  "lolmcv:recipes/decorations/cherry_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-08-22 00:53:01 +0000"
@@ -736,6 +784,12 @@
       "has_planks": "2025-08-22 00:53:32 +0000"
     },
     "done": true
+  },
+  "lolmcv:recipes/decorations/birch_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
   },
   "spartanshields:recipes/wooden_tower_shield": {
     "criteria": {
@@ -788,6 +842,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "floodplain": "2025-08-22 00:44:37 +0000",
+      "volcanic_plains": "2025-08-22 01:05:21 +0000",
       "rainforest": "2025-08-22 00:44:12 +0000"
     },
     "done": false
@@ -876,6 +931,12 @@
     },
     "done": true
   },
+  "lolmcv:recipes/decorations/spruce_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2025-08-22 00:53:32 +0000"
@@ -918,6 +979,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-08-22 01:04:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_stick": "2025-08-22 00:53:36 +0000"
@@ -936,11 +1003,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-22 01:04:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2025-08-22 00:53:32 +0000"
     },
     "done": true
+  },
+  "lolmcv:recipes/decorations/bamboo_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
   },
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
@@ -1218,6 +1297,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-08-22 01:04:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-22 00:55:28 +0000"
@@ -1248,10 +1333,17 @@
     },
     "done": true
   },
+  "lolmcv:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-08-22 00:49:17 +0000",
-      "minecraft:lukewarm_ocean": "2025-08-22 00:47:06 +0000"
+      "minecraft:lukewarm_ocean": "2025-08-22 00:47:06 +0000",
+      "minecraft:river": "2025-08-22 01:04:17 +0000"
     },
     "done": false
   },
@@ -1260,6 +1352,12 @@
       "has_wood": "2025-08-22 00:53:32 +0000"
     },
     "done": true
+  },
+  "lolmcv:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/combat/simple_handle": {
     "criteria": {
@@ -1320,6 +1418,12 @@
       "has_planks": "2025-08-22 00:53:32 +0000"
     },
     "done": true
+  },
+  "lolmcv:recipes/decorations/jungle_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-22 01:00:40 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
     "criteria": {
