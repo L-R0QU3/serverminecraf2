@@ -559,3 +559,39 @@ java.lang.IllegalStateException: not found
 [23Aug2025 03:07:00.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> i
 [23Aug2025 03:10:10.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> dame los troncos?
 [23Aug2025 03:12:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> trata de juntarme 2 stacks de troncos
+[23Aug2025 03:21:52.132] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 03:22:43.680] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 03:24:12.298] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4650a960]Trying to start horde event on day 12 with nextDay 12 and time 15000
+[23Aug2025 03:24:12.298] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@15c5ed92
+[23Aug2025 03:24:12.299] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 9
+[23Aug2025 03:24:12.299] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 9
+[23Aug2025 03:24:12.300] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@510c8ab6]Trying to start horde event on day 12 with nextDay 12 and time 15000
+[23Aug2025 03:24:12.300] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@7fe8a814
+[23Aug2025 03:24:12.300] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 9
+[23Aug2025 03:24:12.301] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 9
+[23Aug2025 03:24:25.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> pachin orda
+[23Aug2025 03:24:38.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> no toto
+[23Aug2025 03:25:27.372] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
+[23Aug2025 03:25:27.372] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
+[23Aug2025 03:25:27.374] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
+[23Aug2025 03:25:27.375] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
+[23Aug2025 03:33:40.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> otot}
+[23Aug2025 03:33:46.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> yo creo que me voy a costar
+[23Aug2025 03:33:49.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> ya toto
+[23Aug2025 03:33:49.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> hace frio
+[23Aug2025 03:33:57.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> Mañana jugamos mas temprano
+[23Aug2025 03:34:08.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> tiene frio el Espinti
+[23Aug2025 03:34:23.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> chao toto
+[23Aug2025 03:34:28.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> cuidado con la horda
+[23Aug2025 03:34:31.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> Chao toto
+[23Aug2025 03:34:33.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> si toto
+[23Aug2025 03:34:39.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> vamos avanzar un poco y mañana seguiimos temprano
+[23Aug2025 03:34:45.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FranPulin lost connection: Disconnected
+[23Aug2025 03:34:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin left the game
+[23Aug2025 03:35:16.530] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 03:35:20.501] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 03:35:36.381] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 03:46:23.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 03:46:23.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 03:46:39.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 03:46:43.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
