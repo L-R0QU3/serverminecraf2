@@ -56,9 +56,11 @@
       "highland": "2025-08-22 01:26:48 +0000",
       "jacaranda_glade": "2025-08-22 01:17:58 +0000",
       "old_growth_woodland": "2025-08-22 01:06:18 +0000",
+      "maple_woods": "2025-08-23 04:18:35 +0000",
       "orchard": "2025-08-22 01:07:46 +0000",
       "field": "2025-08-23 04:15:02 +0000",
       "overgrown_greens": "2025-08-23 04:11:26 +0000",
+      "coniferous_forest": "2025-08-23 04:22:44 +0000",
       "forested_field": "2025-08-23 04:16:49 +0000",
       "redwood_forest": "2025-08-22 01:27:50 +0000",
       "dune_beach": "2025-08-22 01:07:41 +0000",
@@ -4715,6 +4717,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-08-23 04:19:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_spruce_planks": "2025-08-23 03:05:33 +0000"
@@ -5150,6 +5158,12 @@
   "spartanweaponry:recipes/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-08-23 04:19:06 +0000"
     },
     "done": true
   },
