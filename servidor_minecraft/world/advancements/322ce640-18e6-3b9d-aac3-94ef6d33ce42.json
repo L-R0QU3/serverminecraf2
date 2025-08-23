@@ -398,7 +398,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:creeper": "2025-08-22 01:02:37 +0000",
-      "minecraft:zombie": "2025-08-22 00:57:26 +0000"
+      "minecraft:zombie": "2025-08-22 00:57:26 +0000",
+      "minecraft:drowned": "2025-08-22 02:14:49 +0000"
     },
     "done": false
   },
@@ -1347,6 +1348,12 @@
     },
     "done": true
   },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "composter": "2025-08-22 02:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-22 00:58:10 +0000"
@@ -1604,6 +1611,12 @@
       "has_potato": "2025-08-22 01:54:12 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "composter": "2025-08-22 02:06:54 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
