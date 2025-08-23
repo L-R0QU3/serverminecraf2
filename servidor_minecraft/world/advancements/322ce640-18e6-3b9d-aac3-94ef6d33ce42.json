@@ -673,6 +673,7 @@
       "bread": "2025-08-23 01:16:59 +0000",
       "rotten_flesh": "2025-08-22 01:40:41 +0000",
       "melon_slice": "2025-08-22 00:52:12 +0000",
+      "beetroot": "2025-08-23 02:43:22 +0000",
       "carrot": "2025-08-23 01:18:59 +0000"
     },
     "done": false
@@ -3939,6 +3940,12 @@
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
     },
     "done": true
+  },
+  "pizzacraft:crops": {
+    "criteria": {
+      "pepper": "2025-08-23 02:44:19 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {

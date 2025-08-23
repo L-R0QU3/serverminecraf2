@@ -520,3 +520,31 @@ java.lang.IllegalStateException: not found
 [23Aug2025 02:34:56.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=73, z=1190} BlockPos{x=-462, y=72, z=1190}
 [23Aug2025 02:36:53.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Creative Mode]
 [23Aug2025 02:37:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
+[23Aug2025 02:42:52.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 02:43:12.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:43:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> TUTO
+[23Aug2025 02:43:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> toto
+[23Aug2025 02:44:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> TOTO
+[23Aug2025 02:44:14.478] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:44:14.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> SUIMI
+[23Aug2025 02:44:20.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> trajiste retoño de abeto?
+[23Aug2025 02:44:29.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> 2
+[23Aug2025 02:44:30.137] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4650a960]Trying to start horde event on day 10 with nextDay 9 and time 15000
+[23Aug2025 02:44:30.138] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3af49fb4
+[23Aug2025 02:44:30.138] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 02:44:30.139] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 02:44:30.140] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@59107d64]Trying to start horde event on day 9 with nextDay 9 and time 15000
+[23Aug2025 02:44:30.140] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@268a5e60
+[23Aug2025 02:44:30.141] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 02:44:30.141] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 02:44:30.142] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@510c8ab6]Trying to start horde event on day 10 with nextDay 9 and time 15000
+[23Aug2025 02:44:30.143] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@7db06ca1
+[23Aug2025 02:44:30.143] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 02:44:30.143] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 02:44:32.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> wena
+[23Aug2025 02:45:45.186] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 9
+[23Aug2025 02:45:45.187] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 9
+[23Aug2025 02:45:45.188] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 9
+[23Aug2025 02:45:45.188] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 9
+[23Aug2025 02:45:45.189] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 9
+[23Aug2025 02:45:45.189] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 9
