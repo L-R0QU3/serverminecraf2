@@ -2283,6 +2283,7 @@
     "criteria": {
       "minecraft:pig": "2025-08-22 01:44:56 +0000",
       "minecraft:sheep": "2025-08-22 01:55:00 +0000",
+      "minecraft:goat": "2025-08-23 01:23:33 +0000",
       "minecraft:chicken": "2025-08-22 01:32:22 +0000"
     },
     "done": false
@@ -2851,6 +2852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-23 01:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-23 01:16:48 +0000"
@@ -2884,6 +2891,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-23 01:27:01 +0000"
     },
     "done": true
   },
