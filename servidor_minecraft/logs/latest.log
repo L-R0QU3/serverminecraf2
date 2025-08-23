@@ -595,3 +595,9 @@ java.lang.IllegalStateException: not found
 [23Aug2025 03:46:23.580] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
 [23Aug2025 03:46:39.929] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
 [23Aug2025 03:46:43.030] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 04:08:10.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 04:08:38.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 04:08:40.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set the time to 0]
+[23Aug2025 04:19:26.509] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 04:19:32.230] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[23Aug2025 04:19:42.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set the time to 0]
