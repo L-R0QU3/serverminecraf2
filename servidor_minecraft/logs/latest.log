@@ -500,3 +500,15 @@ java.lang.IllegalStateException: not found
 [23Aug2025 02:17:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> qhaceeltoto
 [23Aug2025 02:18:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> Toto traigase madera de abeto si encuentra
 [23Aug2025 02:18:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> iti
+[23Aug2025 02:19:53.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> tienes tierra pachin?
+[23Aug2025 02:20:01.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> zi
+[23Aug2025 02:20:11.380] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:20:15.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:20:44.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> pasame
+[23Aug2025 02:22:23.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Creative Mode]
+[23Aug2025 02:22:42.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
+[23Aug2025 02:22:51.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin was doomed to fall by Goat
+[23Aug2025 02:25:35.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [En Garde!]
+[23Aug2025 02:25:40.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Acquire Hardware]
+[23Aug2025 02:26:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Creative Mode]
+[23Aug2025 02:26:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
