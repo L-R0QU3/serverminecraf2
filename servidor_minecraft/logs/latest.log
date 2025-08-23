@@ -493,3 +493,10 @@ java.lang.IllegalStateException: not found
 [23Aug2025 01:55:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Smash And Bash!]
 [23Aug2025 01:56:50.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RoQueQue_[/127.207.40.132:44501] logged in with entity id 15570 at (-153.20349837012043, 65.0, 1152.3766878870863)
 [23Aug2025 01:56:50.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ joined the game
+[23Aug2025 02:09:04.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:10:51.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Crops of the Wild]
+[23Aug2025 02:13:47.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-235, y=71, z=1116} BlockPos{x=-235, y=69, z=1116}
+[23Aug2025 02:15:18.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=69, z=1169} BlockPos{x=-233, y=69, z=1170}
+[23Aug2025 02:17:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> qhaceeltoto
+[23Aug2025 02:18:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> Toto traigase madera de abeto si encuentra
+[23Aug2025 02:18:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> iti

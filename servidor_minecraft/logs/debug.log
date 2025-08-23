@@ -7196,3 +7196,15 @@ java.lang.IllegalStateException: not found
 [23Aug2025 02:06:36.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [23Aug2025 02:08:34.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Aug2025 02:08:34.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 02:09:04.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:10:51.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Crops of the Wild]
+[23Aug2025 02:13:34.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 02:13:34.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 02:13:47.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-235, y=71, z=1116} BlockPos{x=-235, y=69, z=1116}
+[23Aug2025 02:15:18.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-234, y=69, z=1169} BlockPos{x=-233, y=69, z=1170}
+[23Aug2025 02:17:00.577] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:17:38.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> qhaceeltoto
+[23Aug2025 02:18:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> Toto traigase madera de abeto si encuentra
+[23Aug2025 02:18:25.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> iti
+[23Aug2025 02:18:34.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 02:18:34.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
