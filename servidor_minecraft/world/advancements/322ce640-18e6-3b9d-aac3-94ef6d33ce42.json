@@ -2852,6 +2852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-23 01:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-08-23 01:27:01 +0000"
@@ -2900,6 +2906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-23 01:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-23 01:16:48 +0000"
@@ -2939,6 +2951,12 @@
   "refurbished_furniture:recipes/misc/wrench": {
     "criteria": {
       "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-23 01:46:44 +0000"
     },
     "done": true
   },

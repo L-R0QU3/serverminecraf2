@@ -472,3 +472,24 @@ java.lang.IllegalStateException: not found
 [23Aug2025 01:41:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> oto
 [23Aug2025 01:41:39.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> si
 [23Aug2025 01:41:45.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> tPiedra
+[23Aug2025 01:51:08.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> piti
+[23Aug2025 01:51:18.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nina_UwU> KITITI
+[23Aug2025 01:51:25.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> KITISH
+[23Aug2025 01:51:39.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 01:53:03.638] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@59107d64]Trying to start horde event on day 6 with nextDay 6 and time 15000
+[23Aug2025 01:53:03.638] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@60cb32cd
+[23Aug2025 01:53:03.638] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 3
+[23Aug2025 01:53:03.639] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 3
+[23Aug2025 01:53:03.639] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@510c8ab6]Trying to start horde event on day 7 with nextDay 6 and time 15000
+[23Aug2025 01:53:03.639] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3fb53f49
+[23Aug2025 01:53:03.640] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 3
+[23Aug2025 01:53:03.640] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 3
+[23Aug2025 01:54:18.687] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 01:54:18.688] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 01:54:18.690] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 01:54:18.690] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 6
+[23Aug2025 01:54:43.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RoQueQue_ lost connection: Disconnected
+[23Aug2025 01:54:43.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ left the game
+[23Aug2025 01:55:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Smash And Bash!]
+[23Aug2025 01:56:50.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RoQueQue_[/127.207.40.132:44501] logged in with entity id 15570 at (-153.20349837012043, 65.0, 1152.3766878870863)
+[23Aug2025 01:56:50.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ joined the game
