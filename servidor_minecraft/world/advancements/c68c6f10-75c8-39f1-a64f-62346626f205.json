@@ -2888,6 +2888,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-08-23 03:57:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-08-23 03:27:40 +0000"
@@ -3332,6 +3338,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-23 03:57:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-08-23 01:49:20 +0000"
@@ -3347,6 +3359,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 01:55:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-08-23 03:57:50 +0000"
     },
     "done": true
   },
@@ -3446,6 +3464,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-08-23 03:57:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 01:55:58 +0000"
@@ -3485,6 +3509,12 @@
   "travelersbackpack:recipes/misc/sandstone": {
     "criteria": {
       "has_sandstone": "2025-08-23 03:33:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-08-23 03:57:50 +0000"
     },
     "done": true
   },
@@ -3614,6 +3644,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-23 03:57:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_planks": "2025-08-23 03:27:40 +0000"
@@ -3692,6 +3728,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2025-08-23 03:57:50 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 01:55:58 +0000"
@@ -3725,6 +3767,12 @@
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-08-23 03:27:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-23 03:57:50 +0000"
     },
     "done": true
   },
@@ -3773,6 +3821,12 @@
   "cfm:recipes/decorations/spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-08-23 03:27:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-23 03:57:50 +0000"
     },
     "done": true
   },

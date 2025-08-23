@@ -4645,6 +4645,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-23 03:50:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_glaive": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 02:48:28 +0000"
@@ -4861,6 +4867,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-23 03:50:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_table": {
     "criteria": {
       "has_planks": "2025-08-23 02:44:10 +0000"
@@ -4879,9 +4891,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-23 03:50:52 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 02:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-23 03:50:52 +0000"
     },
     "done": true
   },
@@ -5155,6 +5179,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-08-23 03:50:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-23 03:05:33 +0000"
@@ -5272,6 +5302,12 @@
   "cfm:recipes/decorations/spruce_table": {
     "criteria": {
       "has_log": "2025-08-23 02:44:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-23 03:50:52 +0000"
     },
     "done": true
   },
