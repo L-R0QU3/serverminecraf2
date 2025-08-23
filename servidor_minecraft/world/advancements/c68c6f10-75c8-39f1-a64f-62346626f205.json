@@ -3209,6 +3209,12 @@
     },
     "done": true
   },
+  "pizzacraft:crops": {
+    "criteria": {
+      "onion": "2025-08-23 02:35:30 +0000"
+    },
+    "done": false
+  },
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-08-23 01:55:58 +0000"

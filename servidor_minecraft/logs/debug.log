@@ -7227,3 +7227,61 @@ java.lang.IllegalStateException: not found
 [23Aug2025 02:26:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
 [23Aug2025 02:28:34.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Aug2025 02:28:34.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 02:30:59.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:31:12.382] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:31:55.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> duerman
+[23Aug2025 02:32:00.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Creative Mode]
+[23Aug2025 02:32:09.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
+[23Aug2025 02:32:10.090] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:10.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:10.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:12.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:12.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Aug2025 02:32:13.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:14.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:14.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Aug2025 02:32:15.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:15.776] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Aug2025 02:32:26.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:26.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Aug2025 02:32:27.238] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:27.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:27.642] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:27.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:27.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Aug2025 02:32:28.038] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:28.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:28.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Aug2025 02:32:29.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:29.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Aug2025 02:32:30.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:30.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:30.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:30.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Aug2025 02:32:30.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:31.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:32.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:34.492] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:36.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:32:36.739] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Aug2025 02:33:13.171] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 9
+[23Aug2025 02:33:13.174] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.inventory.TransientCraftingContainer@2702fd52=InventoryMapping{i=net.minecraft.world.inventory.TransientCraftingContainer@2702fd52, c=net.minecraft.world.inventory.InventoryMenu@43550961, b=1, e=4}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@43550961, b=36, e=44}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@43550961, b=45, e=45}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@43550961, b=9, e=35}, net.minecraft.world.inventory.ResultContainer@4093ec7c=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@4093ec7c, c=net.minecraft.world.inventory.InventoryMenu@43550961, b=0, e=0}}
+[23Aug2025 02:33:13.174] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.InventoryMenu@43550961, b=9, e=35}
+[23Aug2025 02:33:34.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 02:33:34.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Aug2025 02:34:56.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=73, z=1190} BlockPos{x=-462, y=72, z=1190}
+[23Aug2025 02:35:44.293] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-908 | 35 | 1556).
+[23Aug2025 02:35:44.296] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[23Aug2025 02:35:44.303] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[23Aug2025 02:35:44.303] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[23Aug2025 02:35:44.303] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 6(0) Rooms
+[23Aug2025 02:35:44.303] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[23Aug2025 02:35:44.304] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(2) Nodes and 5(0) Rooms
+[23Aug2025 02:35:44.304] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[23Aug2025 02:35:44.304] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 6(6) Nodes and 5(0) Rooms
+[23Aug2025 02:35:44.305] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[23Aug2025 02:35:44.305] [Worker-Main-43/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 4(0) Rooms
+[23Aug2025 02:36:53.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Creative Mode]
+[23Aug2025 02:37:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
+[23Aug2025 02:38:34.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Aug2025 02:38:34.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

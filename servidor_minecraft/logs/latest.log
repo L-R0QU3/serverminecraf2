@@ -512,3 +512,11 @@ java.lang.IllegalStateException: not found
 [23Aug2025 02:25:40.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Acquire Hardware]
 [23Aug2025 02:26:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Creative Mode]
 [23Aug2025 02:26:18.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
+[23Aug2025 02:30:59.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:31:12.382] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[23Aug2025 02:31:55.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoQueQue_> duerman
+[23Aug2025 02:32:00.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Creative Mode]
+[23Aug2025 02:32:09.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
+[23Aug2025 02:34:56.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=73, z=1190} BlockPos{x=-462, y=72, z=1190}
+[23Aug2025 02:36:53.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Creative Mode]
+[23Aug2025 02:37:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
