@@ -5034,6 +5034,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-24 02:46:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-08-24 00:59:43 +0000"
@@ -5061,6 +5067,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-08-24 02:40:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-24 02:43:05 +0000"
     },
     "done": true
   },
@@ -5250,6 +5262,12 @@
     },
     "done": true
   },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-08-24 02:43:02 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/birch_blinds": {
     "criteria": {
       "has_log": "2025-08-24 01:17:59 +0000"
@@ -5358,6 +5376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-24 02:43:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
@@ -5397,6 +5421,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-08-24 01:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-24 02:43:05 +0000"
     },
     "done": true
   },
@@ -5694,6 +5724,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-24 02:46:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
@@ -5709,6 +5745,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_shovel": "2025-08-24 01:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-24 02:46:59 +0000"
     },
     "done": true
   },
@@ -5739,6 +5781,12 @@
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-08-24 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-08-24 02:43:05 +0000"
     },
     "done": true
   },
@@ -6060,6 +6108,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-24 02:45:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_chair": {
     "criteria": {
       "has_log": "2025-08-24 01:17:59 +0000"
@@ -6099,6 +6153,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_table": {
     "criteria": {
       "has_birch_planks": "2025-08-24 02:21:13 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:undead_miner": "2025-08-24 02:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-24 02:45:53 +0000"
     },
     "done": true
   },
@@ -6261,6 +6327,12 @@
   "cfm:recipes/decorations/white_cooler": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-24 02:46:59 +0000"
     },
     "done": true
   },

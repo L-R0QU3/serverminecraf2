@@ -519,3 +519,25 @@ java.lang.IllegalStateException: not found
 [24Aug2025 01:54:11.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
 [24Aug2025 02:15:19.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has made the advancement [Will it Come Back?]
 [24Aug2025 02:16:22.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Isn't It Iron Pick]
+[24Aug2025 02:49:25.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[24Aug2025 02:49:31.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[24Aug2025 02:49:57.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[24Aug2025 02:50:12.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[24Aug2025 02:51:20.544] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4c31d910]Trying to start horde event on day 18 with nextDay 18 and time 15000
+[24Aug2025 02:51:20.546] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@38ffab48
+[24Aug2025 02:51:20.546] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 15
+[24Aug2025 02:51:20.547] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 15
+[24Aug2025 02:51:20.547] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6cb5bae1]Trying to start horde event on day 22 with nextDay 21 and time 15000
+[24Aug2025 02:51:20.550] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@274bfbbd
+[24Aug2025 02:51:20.550] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 02:51:20.551] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 02:51:20.551] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@82bc66f]Trying to start horde event on day 21 with nextDay 21 and time 15000
+[24Aug2025 02:51:20.552] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5c04af89
+[24Aug2025 02:51:20.552] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 02:51:20.553] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 02:52:35.591] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 02:52:35.592] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 02:52:35.593] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 21
+[24Aug2025 02:52:35.594] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 21
+[24Aug2025 02:52:35.595] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 21
+[24Aug2025 02:52:35.595] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 21
