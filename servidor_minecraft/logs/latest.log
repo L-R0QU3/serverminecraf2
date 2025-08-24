@@ -445,3 +445,9 @@ java.lang.IllegalStateException: not found
 [24Aug2025 00:48:02.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Will it Come Back?]
 [24Aug2025 00:48:39.953] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
 [24Aug2025 00:48:39.954] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
+[24Aug2025 00:53:46.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RoQueQue_[/127.207.40.132:39671] logged in with entity id 3829 at (-156.3449015565269, 66.0, 1152.9074877941277)
+[24Aug2025 00:53:46.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ joined the game
+[24Aug2025 00:53:49.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Not Today, Thank You]
+[24Aug2025 01:00:03.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from FranPulin: Location (-161.0, 66.96996039152145, 1155.3939801454544) too far away from hit block BlockPos{x=-162, y=66, z=1156}.
+[24Aug2025 01:00:03.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from FranPulin: Location (-161.0, 66.96996039152145, 1155.3939801454544) too far away from hit block BlockPos{x=-162, y=66, z=1156}.
+[24Aug2025 01:00:04.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from FranPulin: Location (-161.09192460775375, 66.53643745183945, 1155.1875) too far away from hit block BlockPos{x=-162, y=66, z=1156}.

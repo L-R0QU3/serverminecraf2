@@ -677,6 +677,7 @@
       "rotten_flesh": "2025-08-22 01:40:41 +0000",
       "melon_slice": "2025-08-22 00:52:12 +0000",
       "beetroot": "2025-08-23 02:43:22 +0000",
+      "cooked_chicken": "2025-08-24 00:47:46 +0000",
       "carrot": "2025-08-23 01:18:59 +0000"
     },
     "done": false
@@ -1670,6 +1671,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-23 01:21:05 +0000",
       "minecraft:creeper": "2025-08-22 01:02:37 +0000",
+      "minecraft:enderman": "2025-08-24 00:51:38 +0000",
       "minecraft:zombie": "2025-08-22 00:57:26 +0000",
       "minecraft:drowned": "2025-08-22 02:14:49 +0000"
     },
@@ -4900,13 +4902,75 @@
   },
   "pizzacraft:crops": {
     "criteria": {
-      "pepper": "2025-08-23 02:44:19 +0000"
+      "pepper": "2025-08-23 02:44:19 +0000",
+      "onion": "2025-08-24 00:57:08 +0000",
+      "tomato": "2025-08-24 00:54:34 +0000"
     },
     "done": false
   },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-08-23 02:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-24 00:53:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-24 00:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-08-24 00:55:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-24 00:54:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 00:54:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 00:54:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-08-24 00:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-24 00:54:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-24 00:47:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-08-24 00:48:02 +0000"
     },
     "done": true
   },
