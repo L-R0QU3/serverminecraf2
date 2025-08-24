@@ -474,3 +474,46 @@ java.lang.IllegalStateException: not found
 [24Aug2025 01:41:16.304] [Worker-Main-22/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
 [24Aug2025 01:41:16.330] [Worker-Main-22/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
 [24Aug2025 01:41:16.331] [Worker-Main-22/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[24Aug2025 01:42:50.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.586344655116136,0.0,10.253243651155572
+[24Aug2025 01:42:50.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.647531916923981,0.0,11.381773902925715
+[24Aug2025 01:42:50.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.7045643259646113,0.0,12.527625752939457
+[24Aug2025 01:42:50.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.7564400014530293,0.0,13.69035808013382
+[24Aug2025 01:42:50.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.8021990935512804,0.0,14.869511452319784
+[24Aug2025 01:42:50.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.8409235351005009,0.0,16.06461025053659
+[24Aug2025 01:42:50.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.8717404847673151,0.0,17.275165275599875
+[24Aug2025 01:42:50.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.893821794158157,0.0,18.500675737081792
+[24Aug2025 01:42:50.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.9063759380539977,0.0,19.740629637374695
+[24Aug2025 01:42:50.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.9086550543001977,0.0,20.99450716605611
+[24Aug2025 01:42:50.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.899950530588967,0.0,22.26178154904983
+[24Aug2025 01:42:50.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.879592377787958,0.0,23.541920655662352
+[24Aug2025 01:42:50.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.846948555266863,0.0,24.834388517600473
+[24Aug2025 01:42:50.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
+[24Aug2025 01:42:50.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.27936620176637916,0.0,16.99618922108084
+[24Aug2025 01:42:50.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.22039241907987162,0.0,18.31169450800644
+[24Aug2025 01:42:50.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved too quickly! -0.14680318925593383,0.0,19.637637628092534
+[24Aug2025 01:43:09.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[24Aug2025 01:43:23.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Creative Mode]
+[24Aug2025 01:43:38.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
+[24Aug2025 01:49:47.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[24Aug2025 01:49:54.083] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[24Aug2025 01:49:59.933] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[24Aug2025 01:50:06.433] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[24Aug2025 01:51:27.913] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4c31d910]Trying to start horde event on day 15 with nextDay 15 and time 15000
+[24Aug2025 01:51:27.915] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@193ee16c
+[24Aug2025 01:51:27.916] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
+[24Aug2025 01:51:27.918] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
+[24Aug2025 01:51:27.919] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6cb5bae1]Trying to start horde event on day 19 with nextDay 18 and time 15000
+[24Aug2025 01:51:27.919] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@75fbd524
+[24Aug2025 01:51:27.919] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
+[24Aug2025 01:51:27.919] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
+[24Aug2025 01:51:27.919] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@82bc66f]Trying to start horde event on day 18 with nextDay 18 and time 15000
+[24Aug2025 01:51:27.920] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@66f07387
+[24Aug2025 01:51:27.921] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
+[24Aug2025 01:51:27.922] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
+[24Aug2025 01:52:42.946] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 15
+[24Aug2025 01:52:42.947] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 15
+[24Aug2025 01:52:42.948] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 01:52:42.948] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 01:52:42.950] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 01:52:42.950] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 18
+[24Aug2025 01:54:11.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
