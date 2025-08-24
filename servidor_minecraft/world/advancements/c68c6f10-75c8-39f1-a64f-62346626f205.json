@@ -5155,5 +5155,11 @@
     },
     "done": true
   },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-08-24 02:15:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

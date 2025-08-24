@@ -517,3 +517,5 @@ java.lang.IllegalStateException: not found
 [24Aug2025 01:52:42.950] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 18
 [24Aug2025 01:52:42.950] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 18
 [24Aug2025 01:54:11.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[24Aug2025 02:15:19.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has made the advancement [Will it Come Back?]
+[24Aug2025 02:16:22.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Isn't It Iron Pick]
