@@ -4950,6 +4950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-08-24 01:18:50 +0000"
@@ -4959,6 +4965,12 @@
   "cfm:recipes/decorations/orange_cooler": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
     },
     "done": true
   },
@@ -5025,6 +5037,12 @@
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-08-24 00:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
     },
     "done": true
   },
@@ -5127,6 +5145,18 @@
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2025-08-24 02:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:30:23 +0000"
     },
     "done": true
   },
@@ -5268,6 +5298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
@@ -5280,9 +5316,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-24 02:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:30:23 +0000"
     },
     "done": true
   },
@@ -5304,15 +5358,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_cooler": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
     },
     "done": true
   },
@@ -5340,6 +5412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-08-24 01:17:59 +0000"
@@ -5349,6 +5427,12 @@
   "cfm:recipes/decorations/stripped_dark_oak_table": {
     "criteria": {
       "has_planks": "2025-08-24 01:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
     },
     "done": true
   },
@@ -5412,6 +5496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-08-24 02:28:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/acacia_mail_box": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
@@ -5433,6 +5523,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_storage_jar": {
     "criteria": {
       "has_birch_planks": "2025-08-24 02:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:30:23 +0000"
     },
     "done": true
   },
@@ -5463,6 +5559,12 @@
   "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-08-24 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
     },
     "done": true
   },
@@ -5517,6 +5619,12 @@
   "cfm:recipes/decorations/white_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
     },
     "done": true
   },
@@ -5598,6 +5706,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-24 02:29:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
@@ -5634,6 +5760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-08-24 01:18:50 +0000"
@@ -5643,6 +5775,12 @@
   "cfm:recipes/decorations/purple_cooler": {
     "criteria": {
       "has_chest": "2025-08-24 02:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
     },
     "done": true
   },
@@ -5682,6 +5820,30 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-08-24 01:48:35 +0000"
@@ -5709,6 +5871,18 @@
   "cfm:recipes/decorations/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2025-08-24 01:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
     },
     "done": true
   },
@@ -5826,6 +6000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_chair": {
     "criteria": {
       "has_log": "2025-08-24 01:17:59 +0000"
@@ -5868,6 +6048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_park_bench": {
     "criteria": {
       "has_log": "2025-08-24 01:17:59 +0000"
@@ -5898,9 +6084,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-08-24 02:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
     },
     "done": true
   },
@@ -6012,9 +6216,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_shovel": "2025-08-24 01:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
     },
     "done": true
   },
@@ -6060,6 +6276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-08-24 01:17:59 +0000"
@@ -6069,6 +6291,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-08-24 01:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-24 02:32:04 +0000"
     },
     "done": true
   },
@@ -6084,9 +6312,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-24 02:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-08-24 01:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-08-24 02:28:44 +0000"
     },
     "done": true
   },
