@@ -548,3 +548,5 @@ java.lang.IllegalStateException: not found
 [24Aug2025 02:57:59.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
 [24Aug2025 02:58:14.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
 [24Aug2025 02:58:37.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[24Aug2025 03:05:30.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has made the advancement [Acquire Hardware]
+[24Aug2025 03:09:22.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
