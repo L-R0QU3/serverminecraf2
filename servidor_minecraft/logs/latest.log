@@ -451,3 +451,16 @@ java.lang.IllegalStateException: not found
 [24Aug2025 01:00:03.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from FranPulin: Location (-161.0, 66.96996039152145, 1155.3939801454544) too far away from hit block BlockPos{x=-162, y=66, z=1156}.
 [24Aug2025 01:00:03.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from FranPulin: Location (-161.0, 66.96996039152145, 1155.3939801454544) too far away from hit block BlockPos{x=-162, y=66, z=1156}.
 [24Aug2025 01:00:04.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from FranPulin: Location (-161.09192460775375, 66.53643745183945, 1155.1875) too far away from hit block BlockPos{x=-162, y=66, z=1156}.
+[24Aug2025 01:03:55.532] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[24Aug2025 01:04:06.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[24Aug2025 01:04:08.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[24Aug2025 01:04:09.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[24Aug2025 01:09:42.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[24Aug2025 01:15:12.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[24Aug2025 01:21:42.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved wrongly! 1.2294678555666678
+[24Aug2025 01:21:42.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved wrongly! 1.2294678555666678
+[24Aug2025 01:21:42.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved wrongly! 0.955421260123785
+[24Aug2025 01:21:42.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved wrongly! 1.2294678555666678
+[24Aug2025 01:21:42.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved wrongly! 0.9475129867665828
+[24Aug2025 01:21:42.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved wrongly! 1.2294678555666678
+[24Aug2025 01:21:42.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of FranPulin) moved wrongly! 0.9390859039533552
