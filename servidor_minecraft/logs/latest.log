@@ -541,3 +541,10 @@ java.lang.IllegalStateException: not found
 [24Aug2025 02:52:35.594] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 21
 [24Aug2025 02:52:35.595] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 21
 [24Aug2025 02:52:35.595] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 21
+[24Aug2025 02:55:31.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has made the advancement [Smash And Bash!]
+[24Aug2025 02:56:41.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RoQueQue_ lost connection: Disconnected
+[24Aug2025 02:56:41.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ left the game
+[24Aug2025 02:57:13.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU was slain by FranPulin
+[24Aug2025 02:57:59.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[24Aug2025 02:58:14.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[24Aug2025 02:58:37.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already

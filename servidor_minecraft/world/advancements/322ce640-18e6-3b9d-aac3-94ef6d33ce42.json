@@ -6234,6 +6234,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-24 02:59:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-08-24 01:17:59 +0000"
