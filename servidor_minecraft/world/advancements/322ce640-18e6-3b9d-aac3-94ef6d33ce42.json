@@ -2858,6 +2858,720 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-08-23 01:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-23 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-23 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-23 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-23 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-23 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-23 01:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-23 01:46:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-23 01:46:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-08-23 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-23 01:57:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-23 01:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-23 01:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-23 01:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-23 01:57:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-08-23 02:08:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-08-23 02:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-23 02:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-23 02:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-23 02:10:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-23 02:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-23 02:15:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2025-08-23 02:22:02 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-08-23 02:24:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-08-23 02:25:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -2876,36 +3590,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_coffee_table": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -2918,33 +3602,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/spatula": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_chair": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/brown_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -2966,18 +3626,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-08-23 01:46:44 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -2993,12 +3641,6 @@
   "cfm:recipes/decorations/blue_grill": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -3020,18 +3662,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-08-23 01:27:01 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -3044,21 +3674,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/orange_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -3086,45 +3704,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-08-23 02:10:51 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_heavy_crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/magenta_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
-    "criteria": {
-      "has_wildflower": "2025-08-23 02:35:30 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -3146,12 +3734,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
-    "criteria": {
-      "has_tall_lavender": "2025-08-23 02:22:02 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/yellow_grill": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
@@ -3170,12 +3752,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/white_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/fridge_light": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
@@ -3185,12 +3761,6 @@
   "refurbished_furniture:recipes/misc/constructing/brown_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_blue_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -3215,12 +3785,6 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_desk": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
     },
     "done": true
   },
@@ -3266,12 +3830,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/green_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -3281,24 +3839,6 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_park_bench": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -3314,21 +3854,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/lime_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -3338,27 +3866,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-08-23 02:54:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_battleaxe": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/purple_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -3368,51 +3878,15 @@
     },
     "done": true
   },
-  "spartanweaponry:rapier": {
-    "criteria": {
-      "has_rapier": "2025-08-23 02:25:35 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/purple_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_cabinet": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/black_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-08-23 02:15:46 +0000"
     },
     "done": true
   },
@@ -3428,27 +3902,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/orange_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-08-23 02:36:48 +0000"
     },
     "done": true
   },
@@ -3458,21 +3914,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/gray_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_gray_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -3494,18 +3938,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-08-23 01:43:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_bath": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -3515,18 +3947,6 @@
   "refurbished_furniture:recipes/misc/constructing/green_grill": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/blue_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-08-23 01:57:12 +0000"
     },
     "done": true
   },
@@ -3542,39 +3962,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-08-23 01:43:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/black_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/blue_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_chair": {
-    "criteria": {
-      "has_planks": "2025-08-23 02:36:48 +0000"
     },
     "done": true
   },
@@ -3590,27 +3986,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -3626,57 +4004,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 02:10:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/pink_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/metal": {
     "criteria": {
       "has_wood": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 01:57:12 +0000"
     },
     "done": true
   },
@@ -3710,12 +4046,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -3725,12 +4055,6 @@
   "cfm:recipes/decorations/gray_trampoline": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -3758,12 +4082,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_park_bench": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -3773,12 +4091,6 @@
   "spartanweaponry:recipes/iron_battle_hammer": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-08-23 01:46:44 +0000"
     },
     "done": true
   },
@@ -3800,33 +4112,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/yellow_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -3860,12 +4148,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -3878,27 +4160,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_table": {
-    "criteria": {
-      "has_planks": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-08-23 01:57:12 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/cyan_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -3908,21 +4172,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_ceiling_light": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-08-23 01:27:01 +0000"
     },
     "done": true
   },
@@ -3938,23 +4190,11 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/green_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/acacia_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
     },
     "done": true
-  },
-  "pizzacraft:crops": {
-    "criteria": {
-      "pepper": "2025-08-23 02:44:19 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
@@ -3968,45 +4208,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/leather_longbow": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-23 02:10:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -4022,21 +4226,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -4049,12 +4241,6 @@
   "spartanweaponry:recipes/iron_quarterstaff": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -4118,12 +4304,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/gray_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -4133,12 +4313,6 @@
   "cfm:recipes/tools/spatula": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -4172,39 +4346,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/orange_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_blinds": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/purple_grill": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/warped_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -4220,33 +4364,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/crimson_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_crate": {
-    "criteria": {
-      "has_planks": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dark_oak_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/iron_basic_shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -4265,12 +4385,6 @@
   "spartanweaponry:recipes/iron_tomahawk": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
     },
     "done": true
   },
@@ -4298,39 +4412,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/white_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-08-23 02:15:46 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_bath": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -4352,69 +4442,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
-    "criteria": {
-      "has_white_lavender": "2025-08-23 02:35:59 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/light_gray_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-08-23 02:25:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/red_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:flanged_mace": {
-    "criteria": {
-      "has_flanged_mace": "2025-08-23 01:55:25 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/knife": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_crate": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/brown_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/yellow_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -4430,12 +4466,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
-    "criteria": {
-      "has_tall_white_lavender": "2025-08-23 02:35:58 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_lightswitch": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -4448,33 +4478,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/pink_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/light_gray_trampoline": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/iron_throwing_knife": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/leather_heavy_crossbow": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
     },
     "done": true
   },
@@ -4502,21 +4514,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/wrench": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-08-23 02:36:48 +0000"
     },
     "done": true
   },
@@ -4526,33 +4526,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/warped_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/acacia_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -4574,21 +4556,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/warped_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/cyan_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -4604,45 +4574,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-08-23 01:46:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
-    "criteria": {
-      "has_beef": "2025-08-23 01:57:12 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/cyan_trampoline": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/quiver_compartment": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_leather": "2025-08-23 01:16:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -4664,21 +4598,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_desk_cabinet": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/purple_trampoline": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
     },
     "done": true
   },
@@ -4688,27 +4610,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/green_trampoline": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-08-23 02:36:48 +0000"
     },
     "done": true
   },
@@ -4721,12 +4625,6 @@
   "cfm:recipes/decorations/cyan_grill": {
     "criteria": {
       "has_iron": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_desk": {
-    "criteria": {
-      "has_planks": "2025-08-23 02:36:48 +0000"
     },
     "done": true
   },
@@ -4748,24 +4646,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -4781,12 +4661,6 @@
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_kitchen_drawer": {
-    "criteria": {
-      "has_log": "2025-08-23 02:36:48 +0000"
     },
     "done": true
   },
@@ -4808,18 +4682,6 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/light_blue_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
@@ -4832,39 +4694,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
-    "criteria": {
-      "has_onion": "2025-08-23 02:10:51 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-08-23 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_kitchen_sink": {
-    "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-08-23 02:25:40 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/magenta_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/lime_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-08-23 02:24:26 +0000"
     },
     "done": true
   },
@@ -4880,15 +4712,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
     "criteria": {
-      "has_raw_copper": "2025-08-23 01:43:03 +0000"
+      "has_iron_ingot": "2025-08-23 02:25:40 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
-      "has_bucket": "2025-08-23 02:08:40 +0000"
+      "has_wildflower": "2025-08-23 02:35:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_tall_white_lavender": {
+    "criteria": {
+      "has_tall_white_lavender": "2025-08-23 02:35:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_lavender": {
+    "criteria": {
+      "has_white_lavender": "2025-08-23 02:35:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-08-23 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-23 02:36:48 +0000"
     },
     "done": true
   },
@@ -4898,15 +4898,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "pizzacraft:crops": {
     "criteria": {
-      "has_beef": "2025-08-23 01:57:12 +0000"
+      "pepper": "2025-08-23 02:44:19 +0000"
     },
-    "done": true
+    "done": false
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "has_iron_ingot": "2025-08-23 02:25:40 +0000"
+      "has_apple": "2025-08-23 02:54:26 +0000"
     },
     "done": true
   },
