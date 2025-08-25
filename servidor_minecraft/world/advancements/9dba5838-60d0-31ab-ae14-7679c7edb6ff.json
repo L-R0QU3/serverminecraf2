@@ -5657,6 +5657,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-08-25 02:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-25 01:49:44 +0000"
@@ -5774,6 +5780,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-08-25 01:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-25 02:04:37 +0000"
     },
     "done": true
   },
@@ -5957,6 +5969,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-08-25 02:04:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2025-08-25 01:49:44 +0000"
@@ -5978,6 +5996,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-25 01:49:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-08-25 02:04:37 +0000"
     },
     "done": true
   },
@@ -6014,6 +6038,18 @@
   "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-08-25 01:19:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_blinds": {
+    "criteria": {
+      "has_log": "2025-08-25 02:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 02:04:37 +0000"
     },
     "done": true
   },
@@ -6110,6 +6146,12 @@
   "cfm:recipes/decorations/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2025-08-25 01:19:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-08-25 02:04:37 +0000"
     },
     "done": true
   },
