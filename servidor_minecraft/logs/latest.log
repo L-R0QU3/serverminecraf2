@@ -451,3 +451,7 @@ java.lang.IllegalStateException: not found
 [25Aug2025 00:49:16.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
 [25Aug2025 00:49:59.416] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
 [25Aug2025 00:49:59.567] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[25Aug2025 01:08:36.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has made the advancement [Diamonds!]
+[25Aug2025 01:12:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Diamonds!]
+[25Aug2025 01:12:26.721] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity theticklemonste:tickle_monster but it was marked as removed already
+[25Aug2025 01:12:40.621] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
