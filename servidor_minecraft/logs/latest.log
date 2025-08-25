@@ -490,3 +490,6 @@ java.lang.IllegalStateException: not found
 [25Aug2025 02:16:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Flexible Schedule]
 [25Aug2025 02:23:40.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> me voy a la mierda
 [25Aug2025 02:23:44.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> los kuliaos
+[25Aug2025 02:25:16.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> shao
+[25Aug2025 02:25:17.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FranPulin lost connection: Disconnected
+[25Aug2025 02:25:17.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin left the game
