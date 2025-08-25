@@ -486,3 +486,7 @@ java.lang.IllegalStateException: not found
 [25Aug2025 02:03:48.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
 [25Aug2025 02:03:50.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
 [25Aug2025 02:03:52.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[25Aug2025 02:16:01.669] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[25Aug2025 02:16:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FranPulin has made the advancement [Flexible Schedule]
+[25Aug2025 02:23:40.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> me voy a la mierda
+[25Aug2025 02:23:44.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FranPulin> los kuliaos

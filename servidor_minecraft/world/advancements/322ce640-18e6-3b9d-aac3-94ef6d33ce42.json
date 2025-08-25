@@ -700,6 +700,7 @@
       "salmon": "2025-08-24 03:15:49 +0000",
       "melon_slice": "2025-08-22 00:52:12 +0000",
       "beetroot": "2025-08-23 02:43:22 +0000",
+      "cooked_rabbit": "2025-08-25 02:16:15 +0000",
       "cooked_chicken": "2025-08-24 00:47:46 +0000",
       "carrot": "2025-08-23 01:18:59 +0000"
     },
@@ -6919,6 +6920,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-25 01:32:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-08-25 02:16:52 +0000"
     },
     "done": true
   },
