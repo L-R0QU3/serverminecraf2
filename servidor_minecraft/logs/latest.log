@@ -496,3 +496,9 @@ java.lang.IllegalStateException: not found
 [25Aug2025 02:38:41.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set the time to 0]
 [25Aug2025 02:49:29.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
 [25Aug2025 02:49:34.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set the time to 0]
+[25Aug2025 03:00:46.715] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[25Aug2025 03:00:57.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set the time to 0]
+[25Aug2025 03:04:23.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RoQueQue_ lost connection: Disconnected
+[25Aug2025 03:04:23.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ left the game
+[25Aug2025 03:04:28.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nina_UwU lost connection: Disconnected
+[25Aug2025 03:04:28.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU left the game
