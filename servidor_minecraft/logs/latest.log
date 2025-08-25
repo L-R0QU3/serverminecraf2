@@ -459,3 +459,23 @@ java.lang.IllegalStateException: not found
 [25Aug2025 01:19:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RoQueQue_: Set own game mode to Survival Mode]
 [25Aug2025 01:25:18.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has reached the goal [You Need a Mint]
 [25Aug2025 01:29:41.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nina_UwU has made the advancement [An Ore Above Diamonds?]
+[25Aug2025 01:34:53.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
+[25Aug2025 01:36:21.381] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@449b82f0]Trying to start horde event on day 27 with nextDay 27 and time 15000
+[25Aug2025 01:36:21.449] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@55695aea
+[25Aug2025 01:36:21.455] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
+[25Aug2025 01:36:21.456] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
+[25Aug2025 01:36:21.458] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@11a91c81]Trying to start horde event on day 24 with nextDay 24 and time 15000
+[25Aug2025 01:36:21.458] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@327afb17
+[25Aug2025 01:36:21.459] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 12
+[25Aug2025 01:36:21.459] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 12
+[25Aug2025 01:36:21.460] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@348bfc63]Trying to start horde event on day 22 with nextDay 21 and time 15000
+[25Aug2025 01:36:21.461] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@39ea0f5d
+[25Aug2025 01:36:21.462] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 9
+[25Aug2025 01:36:21.462] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 9
+[25Aug2025 01:37:36.428] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 27
+[25Aug2025 01:37:36.428] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 27
+[25Aug2025 01:37:36.432] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 24
+[25Aug2025 01:37:36.432] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 24
+[25Aug2025 01:37:36.435] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 21
+[25Aug2025 01:37:36.435] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 21
+[25Aug2025 01:40:48.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ has made the advancement [Will it Come Back?]
