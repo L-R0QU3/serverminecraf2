@@ -484,7 +484,8 @@
     "criteria": {
       "baked_potato": "2025-08-25 00:46:16 +0000",
       "cooked_cod": "2025-08-22 01:02:16 +0000",
-      "melon_slice": "2025-08-22 00:50:43 +0000"
+      "melon_slice": "2025-08-22 00:50:43 +0000",
+      "carrot": "2025-08-25 01:31:06 +0000"
     },
     "done": false
   },
@@ -5680,6 +5681,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 01:31:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
     "criteria": {
       "has_birch_planks": "2025-08-25 01:20:48 +0000"
@@ -5818,6 +5825,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 01:31:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-08-25 01:19:31 +0000"
@@ -5902,6 +5915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-25 01:31:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-25 01:20:48 +0000"
@@ -5923,6 +5942,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-08-25 01:19:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-25 01:31:03 +0000"
     },
     "done": true
   },
