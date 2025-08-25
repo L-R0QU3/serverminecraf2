@@ -6565,6 +6565,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-08-25 02:47:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_parrying_dagger": {
     "criteria": {
       "has_diamond": "2025-08-25 01:08:36 +0000"
@@ -6769,6 +6775,12 @@
     },
     "done": false
   },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-08-25 02:47:52 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-08-25 02:28:11 +0000"
@@ -6817,6 +6829,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-08-25 02:47:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-08-25 01:25:29 +0000"
@@ -6832,6 +6850,12 @@
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-08-25 01:08:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-08-25 02:47:52 +0000"
     },
     "done": true
   },
@@ -6880,6 +6904,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
     "criteria": {
       "has_cherry_planks": "2025-08-25 02:25:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-08-25 02:47:52 +0000"
     },
     "done": true
   },
@@ -6979,6 +7009,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-08-25 02:47:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-08-25 01:08:36 +0000"
@@ -7042,6 +7078,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-08-25 01:08:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-08-25 02:47:52 +0000"
     },
     "done": true
   },
@@ -7159,6 +7201,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-08-25 02:47:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/dragon": {
     "criteria": {
       "has_dragon_breath": "2025-08-25 01:25:18 +0000"
@@ -7180,6 +7228,12 @@
   "cfm:recipes/decorations/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-08-25 01:25:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-08-25 02:47:52 +0000"
     },
     "done": true
   },
@@ -7231,6 +7285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 02:47:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-08-25 01:25:29 +0000"
@@ -7279,6 +7339,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-08-25 02:47:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-08-25 01:08:36 +0000"
@@ -7288,6 +7354,12 @@
   "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-08-25 02:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-25 02:47:52 +0000"
     },
     "done": true
   },
@@ -7357,9 +7429,21 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-08-25 02:47:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-08-25 01:51:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-08-25 02:47:52 +0000"
     },
     "done": true
   },
@@ -7378,6 +7462,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
     "criteria": {
       "has_cherry_planks": "2025-08-25 02:25:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-25 02:47:52 +0000"
     },
     "done": true
   },
@@ -7402,6 +7492,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-25 01:08:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-08-25 02:47:52 +0000"
     },
     "done": true
   },
