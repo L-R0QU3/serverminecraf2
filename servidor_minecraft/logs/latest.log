@@ -479,3 +479,5 @@ java.lang.IllegalStateException: not found
 [25Aug2025 01:37:36.435] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 21
 [25Aug2025 01:37:36.435] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 21
 [25Aug2025 01:40:48.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoQueQue_ has made the advancement [Will it Come Back?]
+[25Aug2025 01:51:20.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[25Aug2025 01:52:55.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity eyesinthedark:eyes_in_the_dark but it was marked as removed already
